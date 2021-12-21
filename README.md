@@ -5,4 +5,4 @@ Realtime chat application using:
 - SocketIO
 - Google OAuth2
 
-URL: https://chat.aylsoftware.com/
+Try it out: https://chat.aylsoftware.com/
